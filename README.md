@@ -9,12 +9,13 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurFontis&theme=transparent&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthurfontis&theme=transparent&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
 </div>
 
 
 <div align="center"> 
+  
 <a href="https://www.instagram.com/dev.arthurfontis/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/1ca1f11a-0531-49fa-9bc4-a3c2e39b7936">
 </a>
