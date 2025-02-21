@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/0d772804-abbd-4e6b-bee3-3dcd046f950b"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/54faa675-d282-49b7-83ae-438771de97b0"/>
 <br>
 <br> 
 
@@ -37,7 +37,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/fb51a8b3-d645-499b-9480-00c9591e5156)  
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/fb1472d4-63df-46de-9066-f9b4ee86029a)  
 
 </div>
 
@@ -94,7 +94,7 @@
 <br> 
 
 
-<img width=100% src="https://github.com/user-attachments/assets/0d772804-abbd-4e6b-bee3-3dcd046f950b"/>
+<img width=100% src="https://github.com/user-attachments/assets/54faa675-d282-49b7-83ae-438771de97b0"/>
 
 
 
