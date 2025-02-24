@@ -6,13 +6,9 @@
 
 <br>
 <br>
-
-<div align="center">
+<section align="center"> 
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthurfontis&theme=transparent&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-  
-</div>
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthurfontis&theme=transparent&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
 <div align="center"> 
   
