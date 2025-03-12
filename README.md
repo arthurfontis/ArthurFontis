@@ -7,8 +7,7 @@
 <br>
 <br>
 <section align="center"> 
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthurfontis&theme=transparent&border_radius=4&locale=pt_BR)](https://git.io/streak-stats)
+
 
 <div align="center"> 
   
