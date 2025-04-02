@@ -20,9 +20,6 @@
 </a>
 
 
-<a href="https://www.tiktok.com/@dev.arthurfontis">
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/cb6dfa14-b447-4c04-abc1-2ef7123c497e">
-</a>
 
 
 <a  href="https://www.linkedin.com/in/arthur-fontinele/" target=_blank>
