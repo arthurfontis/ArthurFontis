@@ -28,11 +28,6 @@
 
 </div>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/fb1472d4-63df-46de-9066-f9b4ee86029a)  
-
-</div>
 
 
 ### Main skills:
