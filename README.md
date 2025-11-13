@@ -46,6 +46,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ca6f0c15-4327-4b2b-8efe-68d744c45766" />
 
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/62ffd4d5-7933-4899-b0a3-3068bcdd0eec" />
+
+
 
 
 
@@ -69,6 +72,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/16680521-34f1-4db2-81e4-6dd1a63e42af" />
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/62ffd4d5-7933-4899-b0a3-3068bcdd0eec" />
 
 </div>
 
